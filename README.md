@@ -5,7 +5,11 @@ A diff algorithm and viewer for comparing documents, with special support for UN
 ## Installation
 
 ```bash
-npm install github:un-eosg-analytics/undifferent#release
+pnpm install github:united-nations/diff#release
+```
+
+```bash
+npm install github:united-nations/diff#release
 ```
 
 ## Usage
